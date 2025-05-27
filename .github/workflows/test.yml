@@ -35,3 +35,4 @@ jobs:
         run: |
           python3 "testing (by unittest)/first_test.py"
           python3 "testing (by unittest)/second_test.py"
+          python3 "testing (by unittest)/third_test.py"
