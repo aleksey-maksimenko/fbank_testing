@@ -32,4 +32,4 @@ jobs:
           sleep 3
 
       - name: Run Selenium tests
-        run: python3 testing (by unittest)/first_test.py
+        run: python3 "testing (by unittest)/first_test.py"
