@@ -32,5 +32,4 @@ jobs:
           sleep 3
 
       - name: Run Selenium tests
-        run: |
-          run: pytest
+        run: pytest
