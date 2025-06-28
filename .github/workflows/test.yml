@@ -33,6 +33,4 @@ jobs:
 
       - name: Run Selenium tests
         run: |
-          python3 "testing (pytest)/first_test.py"
-          python3 "testing (pytest)/second_test.py"
-          python3 "testing (pytest)/third_test.py"
+          run: pytest
